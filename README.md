@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajit-gosavi
-- 👀 I’m interested in containeraztion.
+- 👀 I’m interested in containerization.
 - 🌱 I’m currently learning data mesh.
 - 📫 How to reach me #email - ajit.gosavi@diconium.com
 <!---
